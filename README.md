@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library Management System using C++ and SQLite
 Library Management System (C++ | SQLite)
 • Designed an object-oriented library system using inheritance and polymorphism
 • Implemented persistent storage using SQLite with custom SQL query handling
